@@ -1,0 +1,1 @@
+This is part of git-it's requirements in order to study git.
